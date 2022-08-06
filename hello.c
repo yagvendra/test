@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("hello rapidcode");
+	printf("hello1");
 	return 0;
 }
 
